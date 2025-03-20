@@ -8,9 +8,7 @@ export const HeaderContainer = styled.div`
     text-align: center;
 `;
 
-export const Logo = styled.div`
-width: 50px;
-height: 50px;
-border-radius: 50%;
-background-color: white;
+export const Logo = styled.h1`
+    color: green;
+    font-size: 2rem;
 `;

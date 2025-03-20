@@ -1,12 +1,10 @@
-import { HeaderContainer } from "./Header.styles";
+import { HeaderContainer, Logo} from "./Header.styles";
 
 const Header = () => {
 
     return (
         <HeaderContainer>
-          <Logo />
-          <Title>Menu</Title>
-
+          <Logo> Bokashi. </Logo>
         </HeaderContainer>
     );
 }
