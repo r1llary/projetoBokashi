@@ -9,6 +9,6 @@ export const HeaderContainer = styled.div`
 `;
 
 export const Logo = styled.h1`
-    color: green;
+    color: darkgreen;
     font-size: 2rem;
 `;

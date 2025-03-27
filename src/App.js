@@ -9,6 +9,7 @@ import Objetivos from './pages/Objetivos';
 import Beneficios from './pages/Beneficios';
 import Mododepreparo from './pages/Mododepreparo';
 import Aplicacoes from './pages/Aplicacoes';
+import {HeaderContainer } from './components/Header/Header.styles.jsx';
 
 function App() {
   return (
