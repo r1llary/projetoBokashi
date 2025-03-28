@@ -6,3 +6,4 @@ const Objetivos = () => {
     </div>
   );
 }
+export default Objetivos;

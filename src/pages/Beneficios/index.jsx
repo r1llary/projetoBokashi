@@ -1,7 +1,10 @@
+import { Container } from "./Beneficios.styles";
+
 const Beneficios = () => {
   return (
-    <div>
+    <Container>
       <h1>Beneficios</h1>
-    </div>
+    </Container>
   );
 }
+export default Beneficios;

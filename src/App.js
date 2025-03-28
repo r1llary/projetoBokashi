@@ -1,15 +1,11 @@
 import './App.css';
-import Header from './components/Header';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import Contacts from './pages/Contacts/index.jsx';
-import Footer from './components/Footer/index.jsx';
-import Layout from './components/Layout';
 import Objetivos from './pages/Objetivos';
 import Beneficios from './pages/Beneficios';
 import Mododepreparo from './pages/Mododepreparo';
 import Aplicacoes from './pages/Aplicacoes';
-import {HeaderContainer } from './components/Header/Header.styles.jsx';
 
 function App() {
   return (
