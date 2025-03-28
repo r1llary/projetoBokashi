@@ -1,3 +1,5 @@
+import Layout from "../../components/Layout";
+
 const Aplicacoes = () => {
     return (
         <Layout>
@@ -5,3 +7,4 @@ const Aplicacoes = () => {
         </Layout>
     );
     }
+    export default Aplicacoes;
