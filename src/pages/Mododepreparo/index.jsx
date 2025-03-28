@@ -5,3 +5,4 @@ const Mododepreparo = () => {
     </div>
   );
 }
+export default Mododepreparo;
