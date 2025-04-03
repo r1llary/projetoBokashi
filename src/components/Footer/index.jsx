@@ -3,7 +3,7 @@ import Layout from "../Layout";
 const Footer = () => {
   return (
     <Layout>
-      <p>© 2025 - Bokashi</p>
+      <p>© 2025 - Bokashi Brasil</p>
     </Layout>
   )
 }
