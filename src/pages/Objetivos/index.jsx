@@ -1,9 +1,9 @@
+import Layout from "../../components/Layout";
 const Objetivos = () => {
   return (
-    <div>
-      <h1>Objetivos</h1>
-      <p>Esta es la página de objetivos</p>
-    </div>
+    <Layout>
+    <h1>Home</h1>
+    </Layout>
   );
 }
 export default Objetivos;

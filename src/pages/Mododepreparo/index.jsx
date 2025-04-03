@@ -1,8 +1,9 @@
+import Layout from "../../components/Layout";
 const Mododepreparo = () => {
   return (
-    <div>
-      <h1>Modo de Preparo</h1>
-    </div>
+    <Layout>
+    <h1>Home</h1>
+    </Layout>
   );
 }
 export default Mododepreparo;

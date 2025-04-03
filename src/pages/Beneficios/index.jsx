@@ -1,10 +1,12 @@
-import { Container } from "./Beneficios.styles";
+import Layout from "../../components/Layout";
 
 const Beneficios = () => {
   return (
-    <Container>
-      <h1>Beneficios</h1>
-    </Container>
+
+    <Layout>
+    <h1></h1>
+    </Layout>
+
   );
 }
 export default Beneficios;
