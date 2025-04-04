@@ -1,6 +1,11 @@
 import { Link } from "react-router-dom";
 import styled from "styled-components";
 
+//CRIAÇÃO DO HEADER
+// O HEADER É A PARTE SUPERIOR DO SITE, ONDE FICAM O LOGO E OS LINKS DE NAVEGAÇÃO
+// O HEADER É UM COMPONENTE QUE SERÁ USADO EM TODAS AS PÁGINAS DO SITE, ENTÃO ELE É CRIADO AQUI
+// E DEPOIS IMPORTADO NAS PÁGINAS QUE PRECISAM DELE
+
 export const HeaderContainer = styled.div`
     display: flex;
     background-color: #EFFBEF;

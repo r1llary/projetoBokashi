@@ -2,7 +2,7 @@ import Layout from "../../components/Layout";
 const Mododepreparo = () => {
   return (
     <Layout>
-    <h1>Home</h1>
+    <h1>Modo de Preparo</h1>
     </Layout>
   );
 }
